@@ -1,5 +1,5 @@
 # Website
-The Website of Dren-Tech.
+The Website of Dren-Tech. As of 2019 there is no further development.
 
 ## Technology
 The website is based on Grav.
